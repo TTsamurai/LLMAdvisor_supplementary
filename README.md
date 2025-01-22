@@ -1,4 +1,4 @@
-# SIGIR2025_LLMAdvisor_supplementary
+# LLMAdvisor_supplementary
 
 # Data Analysis for User Study
 
