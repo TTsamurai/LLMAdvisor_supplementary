@@ -17,12 +17,6 @@ This repository contains scripts for analyzing data from a user study.
 
 ## Script Descriptions
 
-### prepare_dataset.py
-This script performs data preprocessing.
-
-- `filter_dataframes_on_uuid(*dataframes, valid_uuids)`: Filters multiple dataframes by `user_id_uuid`.
-- `filter_out_invalid_data(interaction, summarization, round_evaluation, final_ranking, final_survey)`: Filters out invalid data.
-
 ### stats_analysis.py
 This script performs statistical analysis.
 
